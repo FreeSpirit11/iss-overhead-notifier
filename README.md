@@ -6,6 +6,8 @@ This Python script checks if the International Space Station (ISS) is overhead n
 
 Before running the script, make sure to provide your email credentials (`MY_EMAIL` and `MY_PASSWORD`) and your location's latitude (`MY_LAT`) and longitude (`MY_LONG`).
 
+To find your latitude and longitude, you can use the website [latlong.net](https://www.latlong.net/). Enter your address or city name in the search bar, and the website will display the latitude and longitude coordinates.
+
 ## Prerequisites
 
 Make sure you have the `requests` library installed. If not, you can install it using pip:
