@@ -13,7 +13,7 @@ To find your latitude and longitude, you can use the website [latlong.net](https
 Ensure you have the following modules installed:
 
 - `requests`: You can install it using pip:`pip install requests`
-- 
+  
 - `smtplib`: You can install it using pip:`pip install secure-smtplib`
 
 ## How to Use
