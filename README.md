@@ -32,5 +32,5 @@ This project is a part of the "100 Days of Code" challenge by Angela Yu.
 
 ## Author
 - [Mansi Yadav](https://github.com/FreeSpirit11/iss-overhead-notifier)
-- 
+  
 Now, whenever an email comes, you can look up and watch the ISS passing over your head!
