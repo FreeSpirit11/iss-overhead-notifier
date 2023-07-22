@@ -10,11 +10,11 @@ To find your latitude and longitude, you can use the website [latlong.net](https
 
 ## Prerequisites
 
-Make sure you have the `requests` library installed. If not, you can install it using pip:
+Ensure you have the following modules installed:
 
-```bash
-pip install requests
-```
+- `requests`: You can install it using pip:`pip install requests`
+- 
+- `smtplib`: You can install it using pip:`pip install secure-smtplib`
 
 ## How to Use
 
